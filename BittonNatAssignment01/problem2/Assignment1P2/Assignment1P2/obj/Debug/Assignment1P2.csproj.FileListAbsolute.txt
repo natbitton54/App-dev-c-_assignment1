@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\bin\Debug\Assignment1P2.exe.config
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\bin\Debug\Assignment1P2.exe
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\bin\Debug\Assignment1P2.pdb
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.exe
+C:\Users\natha\source\repos\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.pdb
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\bin\Debug\Assignment1P2.exe.config
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\bin\Debug\Assignment1P2.exe
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\bin\Debug\Assignment1P2.pdb
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.csproj.AssemblyReference.cache
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.csproj.SuggestedBindingRedirects.cache
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.csproj.CoreCompileInputs.cache
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.exe
+C:\Users\6205857\Downloads\BittonNatAssignment01\BittonNatAssignment01\problem2\Assignment1P2\Assignment1P2\obj\Debug\Assignment1P2.pdb

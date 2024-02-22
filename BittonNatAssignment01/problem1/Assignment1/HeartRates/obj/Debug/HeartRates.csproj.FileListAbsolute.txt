@@ -1,0 +1,8 @@
+C:\Users\6205857\source\repos\HeartRates\HeartRates\bin\Debug\HeartRates.exe.config
+C:\Users\6205857\source\repos\HeartRates\HeartRates\bin\Debug\HeartRates.exe
+C:\Users\6205857\source\repos\HeartRates\HeartRates\bin\Debug\HeartRates.pdb
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.AssemblyReference.cache
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.SuggestedBindingRedirects.cache
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.CoreCompileInputs.cache
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.exe
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.pdb

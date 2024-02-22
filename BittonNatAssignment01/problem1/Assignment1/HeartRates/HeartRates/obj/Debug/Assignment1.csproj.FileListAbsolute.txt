@@ -1,0 +1,15 @@
+C:\Users\6205857\source\repos\HeartRates\HeartRates\bin\Debug\HeartRates.exe.config
+C:\Users\6205857\source\repos\HeartRates\HeartRates\bin\Debug\HeartRates.exe
+C:\Users\6205857\source\repos\HeartRates\HeartRates\bin\Debug\HeartRates.pdb
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.exe
+C:\Users\6205857\source\repos\HeartRates\HeartRates\obj\Debug\HeartRates.pdb
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\bin\Debug\HeartRates.exe.config
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\bin\Debug\HeartRates.exe
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\bin\Debug\HeartRates.pdb
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\obj\Debug\HeartRates.exe
+C:\Users\natha\Downloads\HeartRates\HeartRates\HeartRates\obj\Debug\HeartRates.pdb
